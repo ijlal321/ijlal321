@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello there! I'm [Your Name], a passionate individual exploring the fascinating realm of Artificial Intelligence (AI). Join me on this exciting journey as we delve into the depths of machine learning, neural networks, and the incredible possibilities that AI has to offer.
+Hello there! I'm Ijlal, a passionate individual exploring the fascinating realm of Artificial Intelligence (AI). Join me on this exciting journey as we delve into the depths of machine learning, neural networks, and the incredible possibilities that AI has to offer.
 
 ## 🚀 My Mission
 
