@@ -1,36 +1,37 @@
-# Welcome to the World of AI Enthusiast 👋
+# Hi there, I'm Muhammad Ijlal! 👋
+
+Welcome to my GitHub profile! I'm enthusiastic about technology and cybersecurity, with a passion for learning and sharing knowledge. Here's a glimpse into who I am:
 
 ## About Me
 
-Hello there! I'm Ijlal, a passionate individual exploring the fascinating realm of Artificial Intelligence (AI). Join me on this exciting journey as we delve into the depths of machine learning, neural networks, and the incredible possibilities that AI has to offer.
+- 🎓 Currently pursuing a degree in Computer Science at UET Lahore (2022-2026).
+- 🎓 Google Professional Cyber Security Certificate holder.
+- 🎓 Working towards CompTIA Network Security+ certification.
+- 🎓 Hold Cisco Packet Tracer Expert Specialization from Cisco.
+- 👨‍🏫 Teaching Assistant: Sharing my knowledge by teaching OOP concepts to juniors.
+- 🎓 Currently an Alpha at MLSA (Microsoft Learning Ambassador Program), leading groups and events.
+- 👓 Part-time Salesman at Optico Eyeware, assisting customers with eyewear and glasses contacts.
+- 📚 A+ Matriculate from LDA Model High School.
+- 📚 A+ Intermediate from GCU College.
 
-## 🚀 My Mission
+## Intrest
 
-My mission is to understand, contribute to, and stay updated on the latest advancements in AI. From natural language processing to computer vision, I'm on a quest to unravel the mysteries of AI and apply them to real-world problems.
+- **Cybersecurity:** I'm deeply passionate about protecting digital assets and mitigating online threats.
+- **Book Reading:** I enjoy exploring various genres and diving into captivating stories.
+- **Badminton:** Embracing the competitive spirit and staying active.
+- **RPG Games:** Immersing myself in rich storytelling and adventurous virtual worlds.
 
-## 🌐 What You'll Find Here
 
-- **Projects:** Explore my AI projects, where I experiment with cutting-edge technologies, algorithms, and frameworks.
-- **Tutorials:** Dive into tutorials and guides where I break down complex AI concepts into easy-to-understand lessons.
-- **Research:** Stay informed about the latest AI research papers and discoveries that caught my attention.
+## Get in Touch
 
-## 🔧 Technologies I Love
+- LinkedIn: [Muhammad Ijlal](https://www.linkedin.com/in/ijlal-tanveer-572213269/)
+- Email: [ijlal.tanveer294@gmail.com](mailto:ijlal.tanveer294@gmail.com)
 
-- **Programming Languages:** Python, TensorFlow, PyTorch, and scikit-learn.
-- **Frameworks:** TensorFlow and PyTorch for deep learning, Flask for web applications.
-- **Tools:** Jupyter Notebooks, Docker, Git.
+Feel free to connect with me and explore my repositories. Let's collaborate and learn together!
 
-## 📚 Learning Resources
-
-- **Books:** Check out my recommended reading list for AI enthusiasts.
-- **Courses:** Discover online courses and MOOCs that helped me build a strong foundation in AI.
-
-## 🤝 Let's Connect
-
-I'm always eager to connect with fellow AI enthusiasts, researchers, and developers. Feel free to reach out for collaboration, discussions, or just a friendly chat. You can find me on [LinkedIn](https://www.linkedin.com/in/yourname/) and [Twitter](https://twitter.com/yourtwitterhandle).
 
 ## 📈 Stay Updated
 
 Don't forget to star ⭐️ this repository to stay updated on my latest projects and contributions. Your feedback and contributions are highly valued!
 
-Let's embark on this AI adventure together! 🤖✨
+Let's embark on this Cyber Security adventure together! 🤖✨
