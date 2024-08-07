@@ -1,25 +1,25 @@
 # Hi there, I'm Muhammad Ijlal! 👋
 
-Welcome to my GitHub profile! I'm enthusiastic about technology and cybersecurity, with a passion for learning and sharing knowledge. Here's a glimpse into who I am:
+Welcome to my GitHub profile! I'm enthusiastic about technology, blockchain, and MERN stack development, with a passion for learning and sharing knowledge. Here's a glimpse into who I am:
 
 ## About Me
 
-- 🎓 Currently pursuing a degree in Computer Science at UET Lahore (2022-2026).
-- 🎓 Google Professional Cyber Security Certificate holder.
-- 🎓 Working towards CompTIA Network Security+ certification.
-- 🎓 Hold Cisco Packet Tracer Expert Specialization from Cisco.
-- 👨‍🏫 Teaching Assistant: Sharing my knowledge by teaching OOP concepts to juniors.
-- 🎓 Currently an Alpha at MLSA (Microsoft Learning Ambassador Program), leading groups and events.
-- 👓 Part-time Salesman at Optico Eyeware, assisting customers with eyewear and glasses contacts.
-- 📚 A+ Matriculate from LDA Model High School.
-- 📚 A+ Intermediate from GCU College.
+Currently a undergraduate student a University of Engineering and Technology, Lahore, I am deeply invested in blockchain technology and its impact on world. With a strong foundation in MERN stack development, I aim to bridge the gap between complex blockchain technology and user-friendly interfaces. Also I love competitive programming and have won many competitions throughout my time in UET Lahore, also  I bring a strong problem-solving mindset and a knack for building efficient, scalable solutions. 
 
-## Intrest
+## Technologies
+### Blockchain Frameworks
+- Hardhat
+- Foundry
+- Truffle
 
-- **Cybersecurity:** I'm deeply passionate about protecting digital assets and mitigating online threats.
-- **Book Reading:** I enjoy exploring various genres and diving into captivating stories.
-- **Badminton:** Embracing the competitive spirit and staying active.
-- **RPG Games:** Immersing myself in rich storytelling and adventurous virtual worlds.
+### Font End
+- Mern Stack
+- Java script, Type Script, Css, Html, Saas
+- Nextjs (beginner)
+
+### Languages
+- Advanced: JavaScript, Python, SOlidity
+- Intermediate: C++, C#
 
 
 ## Get in Touch
@@ -34,4 +34,4 @@ Feel free to connect with me and explore my repositories. Let's collaborate and 
 
 Don't forget to star ⭐️ this repository to stay updated on my latest projects and contributions. Your feedback and contributions are highly valued!
 
-Let's embark on this Cyber Security adventure together! 🤖✨
+Let's embark on this Blockchain era together! 🤖✨
