@@ -18,5 +18,6 @@ Node.js, Express.js, Web3.js, Truffle, Hardhat, Foundry, Ganache, Git
 
 - LinkedIn: [Muhammad Ijlal](https://www.linkedin.com/in/ijlal-tanveer-572213269/)
 - Email: [ijlal.tanveer294@gmail.com](mailto:ijlal.tanveer294@gmail.com)
+- Portfolio: [My Online Portfolio](https://ijlal321.github.io/Portfolio/)
 
 Feel free to connect with me and explore my repositories. Let's collaborate and learn together!
